@@ -183,5 +183,15 @@ table.psets {
   display: inline-block;
   width: 200px;
   text-align: center;
-  margin-right: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
 }
+
+.student {
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  margin-right: 25px;
+  margin-left:  25px;
+}
+
