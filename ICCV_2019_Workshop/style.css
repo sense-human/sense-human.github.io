@@ -167,6 +167,12 @@ table.psets {
 	font-family: "Courier New", Courier, monospace 
 }
 
+.speakerphoto img {
+  width: 160px;
+  border-radius: 120px;
+  margin-bottom: 10px;
+}
+
 .instructorphoto img {
   width: 120px;
   border-radius: 120px;
@@ -179,19 +185,27 @@ table.psets {
   margin-bottom: 10px;
 }
 
-.instructor {
+.speaker {
   display: inline-block;
   width: 200px;
   text-align: center;
-  margin-right: 3px;
-  margin-left: 3px;
+  margin-right: 25px;
+  margin-left: 25px;
 }
 
-.student {
+.organizer {
   display: inline-block;
   width: 200px;
   text-align: center;
   margin-right: 25px;
   margin-left:  25px;
+}
+
+.committee {
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  margin-right: 3px;
+  margin-left: 3px;
 }
 
