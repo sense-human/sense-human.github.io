@@ -81,10 +81,13 @@ a:hover {
 	margin: 0 auto; /* top and bottom, right and left */
 	/*border: 1px solid #000;*/
 	border: none;
+    font-size: 20px;
+    font-weight: normal;
 	text-align: left;
 	padding: 1em 1em 1em 1em; /* top, right, bottom, left */
 	color: #4d4b59;
 	background: #f7f7f7;
+    margin-bottom: 30px;
 }
 
 /* Title and menu */
@@ -125,7 +128,7 @@ table.schedule {
 	border-style: none;
 	border-color: #000;
 	border-collapse: collapse;
-	background-color: white;
+	background-color: black;
 }
 
 
@@ -177,6 +180,10 @@ table.psets {
   width: 120px;
   border-radius: 120px;
   margin-bottom: 10px;
+}
+
+.topicgif img{
+    height: 300px;
 }
 
 .instructorphotosmall img {
