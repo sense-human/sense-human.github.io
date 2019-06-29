@@ -177,18 +177,18 @@ table.psets {
 }
 
 .instructorphoto img {
-  width: 120px;
-  border-radius: 120px;
-  margin-bottom: 10px;
+  width: 100px;
+  border-radius: 100px;
+  margin-bottom: 20px;
 }
 
 .topicgif img{
     height: 128px;
 }
 
-.instructorphotosmall img {
-  width: 60px;
-  border-radius: 60px;
+.instructorphoto_small img {
+  width: 80px;
+  border-radius: 80px;
   margin-bottom: 10px;
 }
 
@@ -211,6 +211,14 @@ table.psets {
 .committee {
   display: inline-block;
   width: 200px;
+  text-align: center;
+  margin-right: 3px;
+  margin-left: 3px;
+}
+
+.committee_steer {
+  display: inline-block;
+  width: 160px;
   text-align: center;
   margin-right: 3px;
   margin-left: 3px;
