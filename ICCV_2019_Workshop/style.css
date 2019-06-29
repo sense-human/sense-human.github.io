@@ -177,7 +177,7 @@ table.psets {
 }
 
 .instructorphoto img {
-  width: 100px;
+  width: 120px;
   border-radius: 100px;
   margin-bottom: 20px;
 }
@@ -187,7 +187,7 @@ table.psets {
 }
 
 .instructorphoto_small img {
-  width: 80px;
+  width: 100px;
   border-radius: 80px;
   margin-bottom: 10px;
 }
