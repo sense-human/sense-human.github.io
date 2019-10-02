@@ -171,7 +171,7 @@ table.psets {
 }
 
 .speakerphoto img {
-  width: 160px;
+  width: 140px;
   border-radius: 120px;
   margin-bottom: 10px;
 }
@@ -183,7 +183,7 @@ table.psets {
 }
 
 .topicgif img{
-    height: 128px;
+  height: 100px;
 }
 
 .instructorphoto_small img {
@@ -194,7 +194,7 @@ table.psets {
 
 .speaker {
   display: inline-block;
-  width: 200px;
+  width: 160px;
   text-align: center;
   margin-right: 25px;
   margin-left: 25px;
