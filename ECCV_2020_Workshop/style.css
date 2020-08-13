@@ -1,6 +1,6 @@
 /* CSS Document */
 
- 
+
 body {
 	/*background: #f7f7f7;*/
 	background: #e3e5e8;
@@ -161,13 +161,13 @@ table.psets {
 }
 
 
-.acknowledgement 
-{ 
-	font-size: .875em; 
+.acknowledgement
+{
+	font-size: .875em;
 }
 
-.code { 
-	font-family: "Courier New", Courier, monospace 
+.code {
+	font-family: "Courier New", Courier, monospace
 }
 
 .speakerphoto img {
@@ -195,7 +195,7 @@ table.psets {
 
 .speaker {
   display: inline-block;
-  width: 156px;
+  width: 150px;
   text-align: center;
   margin-right: 25px;
   margin-left: 25px;
@@ -203,7 +203,7 @@ table.psets {
 
 .organizer {
   display: inline-block;
-  width: 156px;
+  width: 150px;
   text-align: center;
   margin-right: 25px;
   margin-left:  25px;
@@ -237,4 +237,3 @@ table.psets {
   border-radius: 100px;
   margin-bottom: 10px;
 }
-
